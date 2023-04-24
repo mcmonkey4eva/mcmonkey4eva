@@ -2,7 +2,7 @@
 
 My avatar is an altered version Luke Skywalker from Jedi Knight 2.
 
-I'm the CEO of [FreneticLLC](https://github.com/FreneticLLC), and the project lead of [DenizenScript](https://github.com/DenizenScript/).
+I'm the CEO of [FreneticLLC](https://github.com/FreneticLLC), a Machine Learning Engineer at [Stability.AI](https://github.com/Stability-AI), and the project lead of [DenizenScript](https://github.com/DenizenScript/).
 
 I learned programming through game modding when I was a kid, and I never stopped. I have a pretty broad range of experience now.
 
