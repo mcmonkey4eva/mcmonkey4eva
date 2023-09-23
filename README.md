@@ -10,8 +10,8 @@ Most of my work is public on my GitHub / in one of the GitHub orgs I own. I use 
 
 #### My programming language experience (plus links to public projects where applicable):
 
-- Significant/long term experience: C# [[1]](https://github.com/FreneticLLC/FreneticGameEngine) [[2]](https://github.com/FreneticLLC/FreneticScript) [[3]](https://github.com/mcmonkeyprojects/KeyboardChatterBlocker) [[4]](https://github.com/mcmonkeyprojects/DiscordModBot) [[5]](https://github.com/FreneticLLC/FreneticUtilities), Java [[1]](https://github.com/DenizenScript/Denizen) [[2]](https://github.com/mcmonkeyprojects/Sentinel) [[3]](https://github.com/DenizenScript/Denizen-Core)
-- Experienced: Web (HTML/CSS/JavaScript) [[1]](https://github.com/DenizenScript/DenizenMetaWebsite) [[2]](https://github.com/DenizenScript/DenizenPastingWebsite) [[3]](https://github.com/FreneticLLC/FreneticLLCWebsite), TypeScript [[1]](https://github.com/DenizenScript/DenizenVSCode), Python [[1]](https://github.com/mcmonkeyprojects/sd-dynamic-thresholding) [[2]](https://github.com/mcmonkeyprojects/sd-infinity-grid-generator-script), GLSL [[1]](https://github.com/FreneticLLC/FreneticGameEngine/tree/master/FGEGraphics/data/shaders)
+- Significant/long term experience: C# [[1]](https://github.com/FreneticLLC/FreneticGameEngine) [[2]](https://github.com/FreneticLLC/FreneticScript) [[3]](https://github.com/mcmonkeyprojects/KeyboardChatterBlocker) [[4]](https://github.com/mcmonkeyprojects/DiscordModBot) [[5]](https://github.com/FreneticLLC/FreneticUtilities) [[6]](https://github.com/Stability-AI/StableSwarmUI), Java [[1]](https://github.com/DenizenScript/Denizen) [[2]](https://github.com/mcmonkeyprojects/Sentinel) [[3]](https://github.com/DenizenScript/Denizen-Core)
+- Experienced: Web (HTML/CSS/JavaScript) [[1]](https://github.com/DenizenScript/DenizenMetaWebsite) [[2]](https://github.com/DenizenScript/DenizenPastingWebsite) [[3]](https://github.com/FreneticLLC/FreneticLLCWebsite) [[4]](https://github.com/Stability-AI/StableSwarmUI), TypeScript [[1]](https://github.com/DenizenScript/DenizenVSCode), Python [[1]](https://github.com/mcmonkeyprojects/sd-dynamic-thresholding) [[2]](https://github.com/mcmonkeyprojects/sd-infinity-grid-generator-script), GLSL [[1]](https://github.com/FreneticLLC/FreneticGameEngine/tree/master/FGEGraphics/data/shaders)
 - Have worked in: x86_64 Assembly, C [[1]](https://github.com/mcmonkeyprojects/Twifire), C++, Lua, Bash, Batch, Bohemia Script, .NET CIL, Java Byte Code
 - Have dabbled: SQL, PHP, Powershell, HLSL
 - Created myself lol: DenizenScript, FreneticScript
@@ -20,7 +20,7 @@ If you take a look through any of the above linked project README's or [related 
 
 #### Some of the programming-related tools I have developed with (not all, hard to track):
 
-- Hardware interfaces: x86_64, OpenGL, OpenAL
+- Hardware interfaces: x86_64, OpenGL, OpenAL, Nvidia CUDA
 - Data syntaxes: ini, cfg, JSON, HTML, XML, YAML, FDS (created myself lol)
 - Databases: SQL servers, SQLite, MongoDB, Redis, LiteDB
 - Communication: Email (automation, account confirmation tools, etc.), IRC (bots), Discord (bots), GitHub (API), xenforo (modifications/extensions), phpbb (modifications/extensions)
@@ -42,11 +42,13 @@ I primarily use git via [GitHub Desktop](https://desktop.github.com/) and think 
 - algorithm optimization
 - scripting language development (DenizenScript/FreneticScript)
 - microservices (my repo list is full of em)
-- AI/ML technology (Stable Diffusion and LLM tools, including work with Inference and Training, and UI/UX tool development for it) ("AI Art" isn't a thing, "AI Image Generation" is a tool, a human can use it to make art, but that's human art with AI as a tool)
+- AI/ML technology (Stable Diffusion and LLM tools, including work with Inference and Training, and UI/UX tool development for it, including professional work at [Stability.AI](https://github.com/Stability-AI)) ("AI Art" isn't a thing, "AI Image Generation" is a tool, a human can use it to make art, but that's human art with AI as a tool)
 - software security (have worked on projects related to data encryption, account privacy protection, etc.) (Also I heavily research news related to security issues - new vulns, future threats like quantum, new ways to protect users, etc.) (have also worked as red-team for other projects at request of those project's authors)
 - user interfaces (UI/GUI)
 - User Experience (UX) (I have very strong opinions about good UX. Software tools should maximize user-freedom while minimizing confusion, and we can do that a lot better than many popular software projects currently do)
 - databases (Mongo and LiteDB are my favorite, SQL I can handle but in my opinion its overprescribed)
+- advanced asynchronous programming and multithreading (most async code in the world is ticking timebombs of missing access locks. I try to be better than most about avoiding that)
+- data processing and streaming, including low-level (eg tarfiles, network data streams, ...) and high-level (databases, data management interfaces, etc)
 
 #### My two main driving goals with many of my projects are:
 
