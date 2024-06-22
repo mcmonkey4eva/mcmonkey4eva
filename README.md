@@ -2,7 +2,9 @@
 
 My avatar is an altered version Luke Skywalker from Jedi Knight 2.
 
-I'm the CEO of [FreneticLLC](https://github.com/FreneticLLC), a Machine Learning Engineer at [Stability.AI](https://github.com/Stability-AI), and the project lead of [DenizenScript](https://github.com/DenizenScript/).
+I'm the CEO of [FreneticLLC](https://github.com/FreneticLLC), a Software Engineer at [Comfy Org](https://github.com/comfy-org), and the project lead of [DenizenScript](https://github.com/DenizenScript/).
+
+I was previously a Machine Learning Engineer at [Stability AI](https://github.com/Stability-AI).
 
 I learned programming through game modding when I was a kid, and I never stopped. I have a pretty broad range of experience now.
 
@@ -10,8 +12,8 @@ Most of my work is public on my GitHub / in one of the GitHub orgs I own. I use 
 
 #### My programming language experience (plus links to public projects where applicable):
 
-- Significant/long term experience: C# [[1]](https://github.com/FreneticLLC/FreneticGameEngine) [[2]](https://github.com/FreneticLLC/FreneticScript) [[3]](https://github.com/mcmonkeyprojects/KeyboardChatterBlocker) [[4]](https://github.com/mcmonkeyprojects/DiscordModBot) [[5]](https://github.com/FreneticLLC/FreneticUtilities) [[6]](https://github.com/Stability-AI/StableSwarmUI), Java [[1]](https://github.com/DenizenScript/Denizen) [[2]](https://github.com/mcmonkeyprojects/Sentinel) [[3]](https://github.com/DenizenScript/Denizen-Core)
-- Experienced: Web (HTML/CSS/JavaScript) [[1]](https://github.com/DenizenScript/DenizenMetaWebsite) [[2]](https://github.com/DenizenScript/DenizenPastingWebsite) [[3]](https://github.com/FreneticLLC/FreneticLLCWebsite) [[4]](https://github.com/Stability-AI/StableSwarmUI), TypeScript [[1]](https://github.com/DenizenScript/DenizenVSCode), Python [[1]](https://github.com/mcmonkeyprojects/sd-dynamic-thresholding) [[2]](https://github.com/mcmonkeyprojects/sd-infinity-grid-generator-script) [[3]](https://github.com/Stability-AI/StableSwarmUI/tree/master/src/BuiltinExtensions/ComfyUIBackend/ExtraNodes), GLSL [[1]](https://github.com/FreneticLLC/FreneticGameEngine/tree/master/FGEGraphics/data/shaders)
+- Significant/long term experience: C# [[1]](https://github.com/FreneticLLC/FreneticGameEngine) [[2]](https://github.com/FreneticLLC/FreneticScript) [[3]](https://github.com/mcmonkeyprojects/KeyboardChatterBlocker) [[4]](https://github.com/mcmonkeyprojects/DiscordModBot) [[5]](https://github.com/FreneticLLC/FreneticUtilities) [[6]](https://github.com/mcmonkeyprojects/SwarmUI), Java [[1]](https://github.com/DenizenScript/Denizen) [[2]](https://github.com/mcmonkeyprojects/Sentinel) [[3]](https://github.com/DenizenScript/Denizen-Core)
+- Experienced: Web (HTML/CSS/JavaScript) [[1]](https://github.com/DenizenScript/DenizenMetaWebsite) [[2]](https://github.com/DenizenScript/DenizenPastingWebsite) [[3]](https://github.com/FreneticLLC/FreneticLLCWebsite) [[4]](https://github.com/mcmonkeyprojects/SwarmUI), TypeScript [[1]](https://github.com/DenizenScript/DenizenVSCode), Python [[1]](https://github.com/mcmonkeyprojects/sd-dynamic-thresholding) [[2]](https://github.com/mcmonkeyprojects/sd-infinity-grid-generator-script) [[3]](https://github.com/mcmonkeyprojects/SwarmUI/tree/master/src/BuiltinExtensions/ComfyUIBackend/ExtraNodes), GLSL [[1]](https://github.com/FreneticLLC/FreneticGameEngine/tree/master/FGEGraphics/data/shaders)
 - Have worked in: x86_64 Assembly, C [[1]](https://github.com/mcmonkeyprojects/Twifire), C++, Rust [[1]](https://github.com/mcmonkeyprojects/translate-tool), Lua, Bash, Batch, Bohemia Script, .NET CIL [[1]](https://github.com/FreneticLLC/FreneticScript/blob/master/FreneticScript/ScriptSystems/ScriptCompiler.cs), Java Byte Code
 - Have dabbled: SQL, PHP, Powershell, HLSL, Various domain-specific languages
 - Created myself lol: DenizenScript [[1]](https://github.com/DenizenScript/Denizen) [[2]](https://github.com/mcmonkeyprojects/DenizenSampleScripts), FreneticScript [[1]](https://github.com/FreneticLLC/FreneticScript)
