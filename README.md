@@ -8,6 +8,8 @@ I was previously a Machine Learning Engineer at [Stability AI](https://github.co
 
 I learned programming through game modding when I was a kid, and I never stopped. I have a pretty broad range of experience now.
 
+I write blog posts sometimes on the [Frenetic LLC Blog](https://blog.freneticllc.com/). I write a lot more in various Discords and their announcement channels, including especially [SwarmUI](https://discord.gg/q2y38cqjNw), [Denizen](https://discord.gg/Q6pZGSR), and [Frenetic](https://discord.gg/eggWVJt) discords.
+
 Most of my work is public on my GitHub / in one of the GitHub orgs I own. I use [mcmonkeyprojects](https://github.com/mcmonkeyprojects) as a mini-org just to separate my noteworthy personal projects from the random dump on my profile - [FreneticLLC](https://github.com/FreneticLLC) and [DenizenScript](https://github.com/DenizenScript/) orgs are also full of projects I made. I have done programming work for-hire that is obviously not public, and of course I've had a variety of personal projects that I've never had reason to publish. Sometimes the small personal projects wind up on my [Gist](https://gist.github.com/mcmonkey4eva/) if somebody asks me to share it. I have contributed to a variety of other public projects here on GitHub that you can find if you go back through my account history.
 
 #### My programming language experience (plus links to public projects where applicable):
@@ -26,10 +28,11 @@ If you take a look through any of the above linked project README's or [related 
 - Data syntaxes: ini, toml, quake cfg, JSON, HTML, XML, YAML, FDS (created myself lol)
 - Databases: SQL servers, SQLite, MongoDB, Redis, LiteDB, some proprietary corporate stuff too (otel, AWS S3, datadog, bigquery, ...)
 - Communication: Email (automation, account confirmation tools, etc.), IRC (bots), Discord (bots), GitHub (API), xenforo (modifications/extensions), phpbb (modifications/extensions)
-- IDEs: Visual Studio (C#, C, C++), Code::Blocks (C, C++), VS Code (variety of langs), NP++, IntelliJ IDEA (Java), Eclipse (past Java), NetBeans (past Java)
+- IDEs: Visual Studio (C#, C, C++), Code::Blocks (C, C++), VS Code (variety of langs), Cursor (variety of langs), NP++, IntelliJ IDEA (Java), Eclipse (past Java), NetBeans (past Java)
 - Advanced dev tools: Java Decompiler, Java Bytecode Viewer, ILSpy, HexEdit, YourKit
 - Operating Systems: Windows (XP/7/8/8.1/10/11, Home and Pro), Linux (Debian server/desktop, Raspbian desktop, Ubuntu server/desktop (and derivatives), CentOS)
 - CLI tools: Windows Batch, Powershell, Bash via Linux terminal, Bash over SSH, git (obviously lol), live shells for SQL/Mongo/python/etc.
+- Frontend web tech: Raw HTML/JS/CSS, TypeScript Compilers, React, Vue, Vite, NextJS, Tailwind
 - Games I've modded: Empire at War (C, XML), Jedi Knight 2 (C, C++) [[1]](https://github.com/mcmonkeyprojects/Twifire), Jedi Academy (C, C++), Minecraft (Java) [[1]](https://github.com/DenizenScript/Denizen), Garry's Mod (Lua), Arma 3 (in-house Bohemia Script), and various games I dabbled in modding but never published much for
 
 I primarily use git via [GitHub Desktop](https://desktop.github.com/) and think it's wild that more people don't use it. I have the experience with `git` CLI to use it when GitHub Desktop is insufficient (eg advanced merging, rebasing, etc).
