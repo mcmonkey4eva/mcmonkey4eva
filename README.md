@@ -2,9 +2,9 @@
 
 My avatar is an altered version Luke Skywalker from Jedi Knight 2.
 
-I'm the CEO of [FreneticLLC](https://github.com/FreneticLLC), a Software Engineer at [Comfy Org](https://github.com/comfy-org), and the project lead of [DenizenScript](https://github.com/DenizenScript/).
+I am currently the CEO of [FreneticLLC](https://github.com/FreneticLLC) and the project lead of [DenizenScript](https://github.com/DenizenScript/), alongside work on various other open source projects and less-publicly-notable companies.
 
-I was previously a Machine Learning Engineer at [Stability AI](https://github.com/Stability-AI).
+I was previously a Machine Learning Engineer at [Stability AI](https://github.com/Stability-AI) and a Software Engineer at [Comfy Org](https://github.com/comfy-org), alongside work on a variety of other former projects and teams.
 
 I learned programming through game modding when I was a kid, and I never stopped. I have a pretty broad range of experience now.
 
