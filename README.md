@@ -59,6 +59,13 @@ I primarily use git via [GitHub Desktop](https://desktop.github.com/) and think 
 - advanced asynchronous programming and multithreading (most async code in the world is ticking timebombs of missing access locks. I try to be better than most about avoiding that)
 - data processing and streaming, including low-level (eg tarfiles, network data streams, ...) and high-level (databases, data management interfaces, etc)
 
+#### Scientific Papers
+
+- I am a co-author of [SD3: Scaling Rectified Flow Transformers for High-Resolution Image Synthesis](https://arxiv.org/abs/2403.03206)
+- I am the first listed "acknowledgement" for [SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis](https://arxiv.org/abs/2307.01952)
+- I am also cited in a few papers for various other works, notably my [Dynamic Thresholding](https://github.com/mcmonkeyprojects/sd-dynamic-thresholding) work has been cited a few times
+- I discovered a unet optimization technique ([my test code here](https://gist.github.com/mcmonkey4eva/25f2b4d95a5ede0934885d74c0669293)) a few months before the authors of [DeepCache](https://arxiv.org/abs/2312.00858) beat me to actually publishing a paper about the same idea
+
 #### My two main driving goals with many of my projects are:
 
 - **1: Communication**. Code is code, but code with thorough documentation, an active support chat, etc. is a *project*. I believe it's extremely important for creators and leaders to emphasize communication. (I learned this the hard way - I used to be pretty bad at it, and have seen the difference in results as I grew and improved my communication).
