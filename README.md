@@ -1,6 +1,10 @@
-### Hi, I'm Alex "mcmonkey" Goodwin.
+### Hi, I'm Alex Goodwin.
 
-My avatar is an altered version Luke Skywalker from Jedi Knight 2.
+Also known as "mcmonkey" on the internet.
+
+I have a website about me [AlexGoodwin.dev](https://alexgoodwin.dev/).
+
+My avatar here on GitHub and most places is an altered version Luke Skywalker from Jedi Knight 2.
 
 I am currently the CEO of [FreneticLLC](https://github.com/FreneticLLC) and the project lead of [DenizenScript](https://github.com/DenizenScript/), alongside work on various other open source projects and less-publicly-notable companies.
 
