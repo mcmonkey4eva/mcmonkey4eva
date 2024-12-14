@@ -12,7 +12,7 @@ I was previously a Machine Learning Engineer at [Stability AI](https://github.co
 
 I learned programming through game modding when I was a kid, and I never stopped. I have a pretty broad range of experience now.
 
-I write blog posts sometimes on the [Frenetic LLC Blog](https://blog.freneticllc.com/). I write a lot more in various Discords and their announcement channels, including especially [SwarmUI](https://discord.gg/q2y38cqjNw), [Denizen](https://discord.gg/Q6pZGSR), and [Frenetic](https://discord.gg/eggWVJt) discords.
+I write blog posts sometimes on the [Frenetic LLC Blog](https://blog.freneticllc.com/) and [Patreon](https://www.patreon.com/FreneticLLC). I write a lot more in various Discords and their announcement channels, including especially [SwarmUI](https://discord.gg/q2y38cqjNw), [Denizen](https://discord.gg/Q6pZGSR), and [Frenetic](https://discord.gg/eggWVJt) discords.
 
 Most of my work is public on my GitHub / in one of the GitHub orgs I own. I use [mcmonkeyprojects](https://github.com/mcmonkeyprojects) as a mini-org just to separate my noteworthy personal projects from the random dump on my profile - [FreneticLLC](https://github.com/FreneticLLC) and [DenizenScript](https://github.com/DenizenScript/) orgs are also full of projects I made. I have done programming work for-hire that is obviously not public, and of course I've had a variety of personal projects that I've never had reason to publish. Sometimes the small personal projects wind up on my [Gist](https://gist.github.com/mcmonkey4eva/) if somebody asks me to share it. I have contributed to a variety of other public projects here on GitHub that you can find if you go back through my account history.
 
