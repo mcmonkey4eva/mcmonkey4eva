@@ -6,7 +6,7 @@ I have a website about me [AlexGoodwin.dev](https://alexgoodwin.dev/).
 
 My avatar here on GitHub and most places is an altered version Luke Skywalker from Jedi Knight 2.
 
-I am currently the CEO of [FreneticLLC](https://github.com/FreneticLLC) and the project lead of [DenizenScript](https://github.com/DenizenScript/), alongside work on various other open source projects and less-publicly-notable companies.
+I am the CEO of [FreneticLLC](https://github.com/FreneticLLC) and the project lead of [DenizenScript](https://github.com/DenizenScript/), alongside work on various other open source projects and less-publicly-notable companies.
 
 I was previously a Machine Learning Engineer at [Stability AI](https://github.com/Stability-AI) and a Software Engineer at [Comfy Org](https://github.com/comfy-org), alongside work on a variety of other former projects and teams.
 
